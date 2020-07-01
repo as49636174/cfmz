@@ -82,7 +82,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.38</version>
+      <version>8.0.16</version>
     </dependency>
 
     <!--fastjson-->
@@ -204,7 +204,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.38</version>
+      <version>8.0.16</version>
     </dependency>
     <!--SpringBoot的aop编程-->
     <dependency>
